@@ -1,6 +1,6 @@
 <h2>I'm Jose A. González (Jopse)!</h2>
 <img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
-<p><em>Software Architect at <a href="https://www.anjanadata.com/">Anjana Data</a><img src="https://anjanadata.com/wp-content/themes/anda/assets/img/logo-footer.png" width="20"> 
+<p><em>Head of Product Architect and Development at <a href="https://www.anjanadata.com/">Anjana Data</a><img src="https://anjanadata.com/wp-content/themes/anda/assets/img/logo-footer.png" width="20"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jopse5?label=jopse5)](https://twitter.com/intent/follow?screen_name=jopse5)
